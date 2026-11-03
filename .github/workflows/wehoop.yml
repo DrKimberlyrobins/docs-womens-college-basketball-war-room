@@ -1,0 +1,36 @@
+name: Import wehoop historical women's basketball ratings
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true
+      - name: Install wehoop dependencies
+        run: |
+          Rscript -e 'install.packages(c("wehoop","jsonlite","dplyr"),repos="https://cloud.r-project.org")'
+      - name: Fetch published 2025-26 ratings
+        run: |
+          mkdir -p data
+          Rscript scripts/export_wehoop.R data/wehoop_ratings_raw.csv
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Inspect actual source columns and convert verified data
+        run: |
+          python scripts/normalize_wehoop.py data/wehoop_ratings_raw.csv data/authorized_team_ratings.csv
+      - name: Join all 41 matchups
+        run: |
+          python team_stats.py --ratings data/authorized_team_ratings.csv --source "SportsDataverse wehoop published 2025-26 ratings" --as-of "2026-11-03 historical season" --aliases data/team_aliases.json
+      - name: Commit historical data and projections
+        run: |
+          git config user.name "docs-war-room-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/dashboard.json data/authorized_team_ratings.csv
+          if ! git diff --cached --quiet; then git commit -m "Publish wehoop historical ratings and pregame projections"; git push; fi
