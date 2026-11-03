@@ -1,0 +1,32 @@
+name: Join authorized team ratings to all scheduled games
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'data/authorized_team_ratings.csv'
+      - 'data/team_aliases.json'
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify licensed ratings export
+        run: |
+          test -s data/authorized_team_ratings.csv || { echo "Missing permitted team ratings export"; exit 1; }
+      - name: Compute all available matchups
+        run: |
+          python team_stats.py --ratings data/authorized_team_ratings.csv --source "Owner-authorized season ratings export" --as-of "$(date -u +%Y-%m-%dT%H:%M:%SZ)" --aliases data/team_aliases.json
+      - name: Commit generated forecasts
+        run: |
+          git config user.name "docs-war-room-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/dashboard.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update team ratings coverage and experimental projections"
+            git push
+          fi
