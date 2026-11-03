@@ -1,9 +1,9 @@
 {
-  "status": "SCHEDULE_LISTED_NOT_LIVE",
+  "status": "SCHEDULE_ONLY_PARTIAL_TEAM_INTELLIGENCE",
   "source": "CBS Sports November 3, 2026 schedule; Sports-Reference cross-check",
   "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
   "retrieved_utc": "2026-11-03T12:00:00Z",
-  "message": "41 schedule records. Historical matchup intelligence now available for Charleston Southern at East Carolina. Forecasts withheld pending verified roster-adjusted model.",
+  "message": "41 games with schedule, venue, records and per-game data coverage. Team ratings and forecasts unavailable except one historical matchup profile; no fabricated stats.",
   "games": [
     {
       "id": "20261103-01",
@@ -55,11 +55,50 @@
       "schedule_verification": {
         "source": "Charleston Southern University Athletics",
         "url": "https://csusports.com/sports/womens-basketball/schedule/2026-27?grid=true"
-      }
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "historical_source_attached",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "Prior-season stats, not roster-adjusted forecast"
+    },
+    {
+      "id": "20261103-15",
+      "away": "West Florida",
+      "home": "ETSU",
+      "tipoff_utc": "2026-11-03T18:00:00.000Z",
+      "tipoff_central": "2026-11-03T12:00:00-06:00",
+      "venue": "Brooks Gym",
+      "status": "scheduled",
+      "source": "CBS Sports schedule, cross-checked Sports-Reference (2026-11-03)",
+      "retrieved_utc": "2026-11-03T12:00:00Z",
+      "neutral": null,
+      "conference": null,
+      "home_score": null,
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-02",
-      "away": "Cal. St. Staislaus",
+      "away": "Cal State Stanislaus",
       "home": "Cal-Baker.",
       "tipoff_utc": "2026-11-03T19:00:00.000Z",
       "tipoff_central": "2026-11-03T13:00:00-06:00",
@@ -70,7 +109,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-03",
@@ -85,7 +138,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-04",
@@ -100,7 +167,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-05",
@@ -115,7 +196,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-06",
@@ -130,11 +225,25 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-07",
-      "away": "State Center",
+      "away": "SUNY Morrisville",
       "home": "Colgate",
       "tipoff_utc": "2026-11-03T23:00:00.000Z",
       "tipoff_central": "2026-11-03T17:00:00-06:00",
@@ -145,7 +254,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-08",
@@ -160,7 +283,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-09",
@@ -175,7 +312,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-10",
@@ -190,7 +341,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-11",
@@ -205,7 +370,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-12",
@@ -220,7 +399,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-13",
@@ -235,7 +428,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-14",
@@ -250,22 +457,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
-    },
-    {
-      "id": "20261103-15",
-      "away": "West Florida",
-      "home": "ETSU",
-      "tipoff_utc": "2026-11-04T00:00:00.000Z",
-      "tipoff_central": "2026-11-03T18:00:00-06:00",
-      "venue": "Brooks Gym",
-      "status": "scheduled",
-      "source": "CBS Sports schedule, cross-checked Sports-Reference (2026-11-03)",
-      "retrieved_utc": "2026-11-03T12:00:00Z",
-      "neutral": null,
-      "conference": null,
-      "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-16",
@@ -280,7 +486,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-17",
@@ -295,7 +515,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-18",
@@ -310,7 +544,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-19",
@@ -325,7 +573,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-20",
@@ -340,7 +602,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-21",
@@ -355,7 +631,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-22",
@@ -370,7 +660,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-23",
@@ -385,7 +689,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-24",
@@ -400,7 +718,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-25",
@@ -415,7 +747,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-26",
@@ -430,7 +776,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-27",
@@ -445,7 +805,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-28",
@@ -460,7 +834,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-29",
@@ -475,7 +863,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-30",
@@ -490,7 +892,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-31",
@@ -505,7 +921,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-32",
@@ -520,7 +950,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-33",
@@ -535,7 +979,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-34",
@@ -550,7 +1008,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-35",
@@ -565,7 +1037,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-36",
@@ -580,7 +1066,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-37",
@@ -595,7 +1095,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-38",
@@ -610,7 +1124,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-39",
@@ -625,7 +1153,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-40",
@@ -640,7 +1182,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     },
     {
       "id": "20261103-41",
@@ -655,7 +1211,21 @@
       "neutral": null,
       "conference": null,
       "home_score": null,
-      "away_score": null
+      "away_score": null,
+      "records": {
+        "away": "0-0",
+        "home": "0-0"
+      },
+      "data_coverage": {
+        "schedule": "published",
+        "team_stats": "not_verified",
+        "period_stats": "not_verified",
+        "roster": "not_verified",
+        "forecast": "withheld",
+        "results": "not_connected"
+      },
+      "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
+      "data_warning": "No verified historical statistical dataset attached for these teams. No projected score issued."
     }
   ],
   "forecasts": []
