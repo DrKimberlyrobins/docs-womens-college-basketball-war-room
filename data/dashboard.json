@@ -60,12 +60,251 @@
         "schedule": "published",
         "team_stats": "historical_source_attached",
         "period_stats": "not_verified",
-        "roster": "not_verified",
+        "roster": "official_2026_27_verified",
         "forecast": "withheld",
-        "results": "not_connected"
+        "results": "not_connected",
+        "top_five_players": "not_ranked_no_2026_27_minutes"
       },
       "source_url": "https://www.cbssports.com/womens-college-basketball/schedule/ALL/20261103/",
-      "data_warning": "Prior-season stats, not roster-adjusted forecast"
+      "data_warning": "Prior-season stats, not roster-adjusted forecast",
+      "rosters": {
+        "season": "2026-27",
+        "status": "OFFICIAL_ROSTERS_NOT_CONFIRMED_STARTERS",
+        "away": {
+          "source_url": "https://csusports.com/sports/womens-basketball/roster",
+          "players": [
+            {
+              "name": "Lauren Cummings",
+              "height": "6-0",
+              "position": "F",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Ashleigh Battle",
+              "height": "5-4",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Bayan Salman",
+              "height": "5-4",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Zara Sestan",
+              "height": "5-10",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Sofia Ekh",
+              "height": "5-9",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Iva Medugorac",
+              "height": "5-9",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Iva Cholakoska",
+              "height": "6-0",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Berta Oliveras",
+              "height": "5-5",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Selenay Tanik",
+              "height": "6-1",
+              "position": "F",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Rochelle Afo Manuma",
+              "height": "5-10",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Alaina Nettles",
+              "height": "5-7",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Happy Arune",
+              "height": "6-7",
+              "position": "C",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Anica Škrivan",
+              "height": "6-3",
+              "position": "C",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Celina Vilcinskas",
+              "height": "6-9",
+              "position": "C",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            }
+          ]
+        },
+        "home": {
+          "source_url": "https://ecupirates.com/sports/womens-basketball/roster",
+          "players": [
+            {
+              "name": "Chelsea Dike",
+              "height": "6-2",
+              "position": "F/C",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Olivia Hilliard",
+              "height": "5-9",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Rylie Hite",
+              "height": "5-8",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Tristan Rickenbacker",
+              "height": "6-0",
+              "position": "G/F",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Jayla Hearp",
+              "height": "5-9",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Irieanna Smoot",
+              "height": "5-10",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Kendall Sneed",
+              "height": "5-8",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Jayda Holiman",
+              "height": "5-6",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Georgia Cox",
+              "height": "6-4",
+              "position": "F",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Mildred Dibua",
+              "height": "6-1",
+              "position": "F",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Ava Rush",
+              "height": "6-3",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Tuana Coskun",
+              "height": "6-0",
+              "position": "G",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Sara Blair",
+              "height": "6-5",
+              "position": "C",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            },
+            {
+              "name": "Zaniah Zellous",
+              "height": "6-2",
+              "position": "F",
+              "minutes_per_game": null,
+              "points_per_game": null,
+              "role": null
+            }
+          ]
+        }
+      }
     },
     {
       "id": "20261103-15",
