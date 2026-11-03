@@ -1,6 +1,11 @@
 name: Import wehoop historical women's basketball ratings
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/wehoop.yml'
+      - 'scripts/export_wehoop.R'
+      - 'scripts/normalize_wehoop.py'
 permissions:
   contents: write
 jobs:
